@@ -2,7 +2,7 @@
 
 🌱  I’m currently focused on learning React, Typescript, Python and Nodejs
 <br>
-🔭 I’m currently working on websites, freelances and personal projects
+🔭 I’m currently working as an intern, but also on freelances and personal projects
 <br>
 <br>
 🌟 Currently I am developing a mobile app to list and register the places that<br> are reopening, with the economy recovery, you can contribute, there is a public          repository here on Github named "Finder"
