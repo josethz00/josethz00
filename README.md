@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱  I’m currently focused on learning React, Typescript, Flask and Nodejs
+🌱  I’m currently focused on learning React, Typescript, Python and Nodejs
 <br>
 🔭 I’m currently working on websites, freelances and personal projects
 <br>
