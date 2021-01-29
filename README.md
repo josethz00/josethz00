@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-🌱  I’m currently focused on learning React, Typescript, Python and Nodejs
+🌱 I’m a brazilian developer focused on learning React, Typescript, Python and Nodejs
 <br>
-🔭 I’m currently working as an intern, but also on freelances and personal projects
+🔭 I’m currently working as an intern, but also on youtube contents and personal projects
 <br>
+🤯 I'm currently in the first year of my college course in Systems Analysis at <a href="http://www.fatecsp.br/">FATEC-SP</a> in Brazil
 <br>
-🌟 Currently I am developing a mobile app to list and register the places that<br> are reopening, with the economy recovery, you can contribute, there is a public          repository here on Github named "Finder"
+🌟 Currently I am developing some enterprise and personal projects, but also studying techs, algorithms and clean architecture
 <br>
 <br>
 <br>
