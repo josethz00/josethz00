@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is José 👋
 
 🌱 I’m a brazilian developer focused on learning React, Typescript, Python and Nodejs
 <br>
@@ -10,4 +10,6 @@
 <br>
 <br>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dark&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dracula&count_private=true)
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josethz00)](https://github.com/josethz00/github-readme-stats&show_icons=true&theme=dracula)
