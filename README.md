@@ -12,4 +12,4 @@
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dracula&count_private=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josethz00)](https://github.com/josethz00/github-readme-stats&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josethz00)](https://github.com/josethz00/github-readme-stats&show_icons=true&count_private=true)
