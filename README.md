@@ -1,6 +1,6 @@
 ### Hello, my name is José 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-5271ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-thomaz-antunes-soares/)](https://www.linkedin.com/in/josé-thomaz-antunes-soares/) 
+[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-5271ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/)](https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/) 
 [![Gmail Badge](https://img.shields.io/badge/-josethomaz2003@gmail.com-5271ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:josethomaz2003@gmail.com)
 
 🌱 I’m a brazilian developer focused on learning Typescript, Python and Rust
