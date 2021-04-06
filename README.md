@@ -13,4 +13,4 @@
 <br>
 <br>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dark&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dark&count_private=true&bg_color=3733dd&text_color=ccc)
