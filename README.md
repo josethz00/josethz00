@@ -1,7 +1,7 @@
 ### Hello, my name is José 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-79dafa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/)](https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/) 
-[![Gmail Badge](https://img.shields.io/badge/-josethomaz2003@gmail.com-79dafa?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:josethomaz2003@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-José%20Thomaz-3733dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/)](https://www.linkedin.com/in/jos%C3%A9-thomaz-antunes-soares-2056ab199/) 
+[![Gmail Badge](https://img.shields.io/badge/-josethomaz2003@gmail.com-3733dd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:josethomaz2003@gmail.com)
 
 🌱 I’m a brazilian developer focused on learning Typescript, Python and Rust
 <br>
@@ -13,4 +13,4 @@
 <br>
 <br>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dracula&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josethz00&show_icons=true&theme=dark&count_private=true)
