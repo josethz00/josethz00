@@ -9,7 +9,7 @@
 <br>
 🤯 I'm currently in the first year of my college course in Systems Analysis at <a href="http://www.fatecsp.br/">FATEC-SP</a> in Brazil
 <br>
-🌟 Currently I am developing some enterprise and personal projects, but also studying techs, algorithms, data structures and compilers
+🌟 Currently I am developing some enterprise and personal projects, but also studying algorithms, data structures and compilers
 <br>
 <br>
 <br>
