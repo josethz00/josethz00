@@ -7,7 +7,7 @@
 <br>
 🔭 I’m currently working as a software developer, but also on youtube contents and personal projects
 <br>
-🤯 I'm currently in the first year of my college course in Systems Analysis at <a href="http://www.fatecsp.br/">FATEC-SP</a> in Brazil
+🤯 I'm currently in the second year of my college course in Systems Analysis at <a href="http://www.fatecsp.br/">FATEC-SP</a> in Brazil
 <br>
 🌟 Currently I am developing some enterprise and personal projects, but also studying algorithms, data structures and compilers
 <br>
